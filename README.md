@@ -1,23 +1,23 @@
 ## 📥 Download Divi Theme (100% Free)
 
-Ye Divi theme bilkul **free** hai — koi payment ya subscription nahi chahiye.
+This Divi theme is completely **free** — no payment or subscription required.
 
 ### Steps to Download & Install:
 
-1. **Google Drive link open karein** — niche diya gaya link click karein:
+1. **Open the Google Drive link** — click the link below:
    
    👉 https://drive.google.com/file/d/1XaPgouRbKwXP1aletyWqQrGDHXmm5iCq/view?usp=sharing
 
-3. **File download karein** — Google Drive page par right side upar "Download" icon par click karein aur zip file apne computer mein save kar lein.
+3. **Download the file** — on the Google Drive page, click the **Download** icon (top right) and save the zip file to your computer.
 
-4. **WordPress Dashboard open karein** — apni site ke `wp-admin` mein login karein.
+4. **Open your WordPress Dashboard** — log in to your site's `wp-admin`.
 
-5. **Theme upload karein**:
-   - Left menu se **Appearance → Themes** par jayein
-   - Upar **Add New Theme** button click karein
-   - Fir **Upload Theme** par click karein
-   - Downloaded zip file select karein aur **Install Now** par click karein
+5. **Upload the theme**:
+   - Go to **Appearance → Themes** in the left menu
+   - Click **Add New Theme** at the top
+   - Click **Upload Theme**
+   - Select the downloaded zip file and click **Install Now**
 
-6. **Activate karein** — install hone ke baad **Activate** button click karein.
+6. **Activate it** — once installed, click the **Activate** button.
 
-✅ Bas ho gaya! Ab aap Divi theme use kar sakte hain apni WordPress site par — bilkul free.
+✅ That's it! You can now use the Divi theme on your WordPress site — completely free.
